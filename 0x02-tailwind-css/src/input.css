@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 768px) 
+{ 
+main { grid-template-columns: 1fr; } 
+}
+>>>>>>> ad08cde (Save current changes before rebase)
